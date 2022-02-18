@@ -1,0 +1,14 @@
+Worldometer Scraper
+-------------------
+
+Install PHP (Ubuntu):
+
+  sudo apt-get install php php-curl -y;
+
+How to use:
+
+  php main.php
+  # This will generate covid19.json file.
+
+-- 
+Ammar Faizi
