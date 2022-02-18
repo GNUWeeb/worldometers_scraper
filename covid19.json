@@ -1,0 +1,1042 @@
+{
+    "USA": {
+        "cmt": 79915734,
+        "fst": 955497,
+        "sdt": 51019315
+    },
+    "India": {
+        "cmt": 42780235,
+        "fst": 510937,
+        "sdt": 41977238
+    },
+    "Brazil": {
+        "cmt": 27941476,
+        "fst": 641997,
+        "sdt": 24708484
+    },
+    "France": {
+        "cmt": 22068635,
+        "fst": 136142,
+        "sdt": 0
+    },
+    "UK": {
+        "cmt": 18546205,
+        "fst": 160379,
+        "sdt": 15020573
+    },
+    "Turkey": {
+        "cmt": 13266265,
+        "fst": 91646,
+        "sdt": 12371376
+    },
+    "Germany": {
+        "cmt": 13237493,
+        "fst": 121561,
+        "sdt": 12323398
+    },
+    "Spain": {
+        "cmt": 10778607,
+        "fst": 97710,
+        "sdt": 8216664
+    },
+    "Argentina": {
+        "cmt": 8799858,
+        "fst": 124924,
+        "sdt": 8518034
+    },
+    "Iran": {
+        "cmt": 6913427,
+        "fst": 134607,
+        "sdt": 6035143
+    },
+    "Netherlands": {
+        "cmt": 6012521,
+        "fst": 21465,
+        "sdt": 172
+    },
+    "Poland": {
+        "cmt": 5519282,
+        "fst": 109509,
+        "sdt": 5366405
+    },
+    "Indonesia": {
+        "cmt": 5089637,
+        "fst": 146044,
+        "sdt": 4672198
+    },
+    "Japan": {
+        "cmt": 4241800,
+        "fst": 21198,
+        "sdt": 3652024
+    },
+    "Philippines": {
+        "cmt": 3648925,
+        "fst": 55409,
+        "sdt": 3508222
+    },
+    "Belgium": {
+        "cmt": 3484518,
+        "fst": 29886,
+        "sdt": 352
+    },
+    "Czechia": {
+        "cmt": 3483932,
+        "fst": 38106,
+        "sdt": 3474965
+    },
+    "Canada": {
+        "cmt": 3227412,
+        "fst": 35923,
+        "sdt": 3062669
+    },
+    "Portugal": {
+        "cmt": 3148387,
+        "fst": 20708,
+        "sdt": 2589510
+    },
+    "Malaysia": {
+        "cmt": 3138215,
+        "fst": 32239,
+        "sdt": 2888194
+    },
+    "Australia": {
+        "cmt": 2992940,
+        "fst": 4834,
+        "sdt": 208
+    },
+    "Chile": {
+        "cmt": 2747552,
+        "fst": 40936,
+        "sdt": 0
+    },
+    "Vietnam": {
+        "cmt": 2685463,
+        "fst": 39358,
+        "sdt": 2674477
+    },
+    "Switzerland": {
+        "cmt": 2652931,
+        "fst": 13117,
+        "sdt": 0
+    },
+    "Romania": {
+        "cmt": 2643614,
+        "fst": 62323,
+        "sdt": 2424742
+    },
+    "Sweden": {
+        "cmt": 2422856,
+        "fst": 16817,
+        "sdt": 0
+    },
+    "Denmark": {
+        "cmt": 2401310,
+        "fst": 4250,
+        "sdt": 33
+    },
+    "Iraq": {
+        "cmt": 2288777,
+        "fst": 24840,
+        "sdt": 2255421
+    },
+    "Bangladesh": {
+        "cmt": 1929154,
+        "fst": 28931,
+        "sdt": 1874134
+    },
+    "S. Korea": {
+        "cmt": 1755806,
+        "fst": 7283,
+        "sdt": 1746424
+    },
+    "Jordan": {
+        "cmt": 1541379,
+        "fst": 13608,
+        "sdt": 1331606
+    },
+    "Georgia": {
+        "cmt": 1526205,
+        "fst": 15771,
+        "sdt": 383787
+    },
+    "Pakistan": {
+        "cmt": 1496693,
+        "fst": 29950,
+        "sdt": 1324503
+    },
+    "Kazakhstan": {
+        "cmt": 1296601,
+        "fst": 13519,
+        "sdt": 1244669
+    },
+    "Ireland": {
+        "cmt": 1265124,
+        "fst": 6417,
+        "sdt": 57
+    },
+    "Morocco": {
+        "cmt": 1158145,
+        "fst": 15870,
+        "sdt": 1103956
+    },
+    "Cuba": {
+        "cmt": 1064128,
+        "fst": 8484,
+        "sdt": 1059192
+    },
+    "Croatia": {
+        "cmt": 1035632,
+        "fst": 14729,
+        "sdt": 1035209
+    },
+    "Nepal": {
+        "cmt": 975132,
+        "fst": 11913,
+        "sdt": 974214
+    },
+    "Bolivia": {
+        "cmt": 887089,
+        "fst": 21342,
+        "sdt": 760843
+    },
+    "UAE": {
+        "cmt": 873092,
+        "fst": 2292,
+        "sdt": 86574
+    },
+    "Slovenia": {
+        "cmt": 871951,
+        "fst": 6174,
+        "sdt": 868078
+    },
+    "Lithuania": {
+        "cmt": 847993,
+        "fst": 8219,
+        "sdt": 808925
+    },
+    "Uruguay": {
+        "cmt": 800833,
+        "fst": 6838,
+        "sdt": 750907
+    },
+    "Costa Rica": {
+        "cmt": 779323,
+        "fst": 7874,
+        "sdt": 629174
+    },
+    "Azerbaijan": {
+        "cmt": 768019,
+        "fst": 9182,
+        "sdt": 74652
+    },
+    "Guatemala": {
+        "cmt": 749257,
+        "fst": 16709,
+        "sdt": 682971
+    },
+    "Panama": {
+        "cmt": 747916,
+        "fst": 7993,
+        "sdt": 728682
+    },
+    "Saudi Arabia": {
+        "cmt": 737334,
+        "fst": 8981,
+        "sdt": 634333
+    },
+    "Paraguay": {
+        "cmt": 632444,
+        "fst": 18116,
+        "sdt": 587358
+    },
+    "Kuwait": {
+        "cmt": 609453,
+        "fst": 2525,
+        "sdt": 580056
+    },
+    "Finland": {
+        "cmt": 605046,
+        "fst": 2277,
+        "sdt": 37
+    },
+    "Dominican Republic": {
+        "cmt": 570889,
+        "fst": 4354,
+        "sdt": 564170
+    },
+    "Latvia": {
+        "cmt": 567176,
+        "fst": 5093,
+        "sdt": 565656
+    },
+    "Myanmar": {
+        "cmt": 559314,
+        "fst": 19322,
+        "sdt": 10169
+    },
+    "Singapore": {
+        "cmt": 533425,
+        "fst": 930,
+        "sdt": 469693
+    },
+    "Venezuela": {
+        "cmt": 509600,
+        "fst": 5582,
+        "sdt": 491965
+    },
+    "Moldova": {
+        "cmt": 490751,
+        "fst": 11041,
+        "sdt": 453911
+    },
+    "Libya": {
+        "cmt": 482153,
+        "fst": 6178,
+        "sdt": 481512
+    },
+    "Ethiopia": {
+        "cmt": 467975,
+        "fst": 7430,
+        "sdt": 409406
+    },
+    "Egypt": {
+        "cmt": 463370,
+        "fst": 23580,
+        "sdt": 395235
+    },
+    "Mongolia": {
+        "cmt": 459944,
+        "fst": 2155,
+        "sdt": 192
+    },
+    "Estonia": {
+        "cmt": 448666,
+        "fst": 2152,
+        "sdt": 413295
+    },
+    "Honduras": {
+        "cmt": 406872,
+        "fst": 10608,
+        "sdt": 127289
+    },
+    "Oman": {
+        "cmt": 372060,
+        "fst": 4225,
+        "sdt": 349666
+    },
+    "Bosnia and Herzegovina": {
+        "cmt": 367641,
+        "fst": 15263,
+        "sdt": 0
+    },
+    "Qatar": {
+        "cmt": 352894,
+        "fst": 660,
+        "sdt": 345636
+    },
+    "Kenya": {
+        "cmt": 322614,
+        "fst": 5633,
+        "sdt": 302937
+    },
+    "Zambia": {
+        "cmt": 310764,
+        "fst": 3942,
+        "sdt": 300435
+    },
+    "North Macedonia": {
+        "cmt": 290915,
+        "fst": 8851,
+        "sdt": 273243
+    },
+    "R&eacute;union": {
+        "cmt": 278494,
+        "fst": 603,
+        "sdt": 250359
+    },
+    "Albania": {
+        "cmt": 269301,
+        "fst": 3430,
+        "sdt": 259065
+    },
+    "Algeria": {
+        "cmt": 263369,
+        "fst": 6772,
+        "sdt": 176027
+    },
+    "Botswana": {
+        "cmt": 261913,
+        "fst": 2608,
+        "sdt": 256438
+    },
+    "Nigeria": {
+        "cmt": 254137,
+        "fst": 3141,
+        "sdt": 230479
+    },
+    "Uzbekistan": {
+        "cmt": 234872,
+        "fst": 1614,
+        "sdt": 232598
+    },
+    "Montenegro": {
+        "cmt": 227859,
+        "fst": 2646,
+        "sdt": 222287
+    },
+    "Mozambique": {
+        "cmt": 224815,
+        "fst": 2189,
+        "sdt": 218829
+    },
+    "Kyrgyzstan": {
+        "cmt": 200255,
+        "fst": 2939,
+        "sdt": 176736
+    },
+    "Afghanistan": {
+        "cmt": 171857,
+        "fst": 7526,
+        "sdt": 151192
+    },
+    "Maldives": {
+        "cmt": 162974,
+        "fst": 290,
+        "sdt": 147167
+    },
+    "Uganda": {
+        "cmt": 162973,
+        "fst": 3578,
+        "sdt": 87
+    },
+    "Ghana": {
+        "cmt": 158220,
+        "fst": 1433,
+        "sdt": 156429
+    },
+    "Namibia": {
+        "cmt": 156913,
+        "fst": 3997,
+        "sdt": 152394
+    },
+    "El Salvador": {
+        "cmt": 147786,
+        "fst": 4027,
+        "sdt": 123870
+    },
+    "Laos": {
+        "cmt": 140604,
+        "fst": 605,
+        "sdt": 0
+    },
+    "Rwanda": {
+        "cmt": 129345,
+        "fst": 1454,
+        "sdt": 45522
+    },
+    "Jamaica": {
+        "cmt": 127377,
+        "fst": 2769,
+        "sdt": 74150
+    },
+    "Cambodia": {
+        "cmt": 125201,
+        "fst": 3015,
+        "sdt": 119880
+    },
+    "Guadeloupe": {
+        "cmt": 123622,
+        "fst": 828,
+        "sdt": 2250
+    },
+    "Trinidad and Tobago": {
+        "cmt": 122093,
+        "fst": 3549,
+        "sdt": 97869
+    },
+    "Cameroon": {
+        "cmt": 119107,
+        "fst": 1920,
+        "sdt": 106050
+    },
+    "Martinique": {
+        "cmt": 108349,
+        "fst": 861,
+        "sdt": 104
+    },
+    "Iceland": {
+        "cmt": 102086,
+        "fst": 58,
+        "sdt": 75685
+    },
+    "Angola": {
+        "cmt": 98585,
+        "fst": 1899,
+        "sdt": 96488
+    },
+    "DRC": {
+        "cmt": 85834,
+        "fst": 1316,
+        "sdt": 50930
+    },
+    "Senegal": {
+        "cmt": 85521,
+        "fst": 1958,
+        "sdt": 83422
+    },
+    "Malawi": {
+        "cmt": 85134,
+        "fst": 2600,
+        "sdt": 74052
+    },
+    "Ivory Coast": {
+        "cmt": 81282,
+        "fst": 791,
+        "sdt": 79098
+    },
+    "Suriname": {
+        "cmt": 77549,
+        "fst": 1307,
+        "sdt": 77414
+    },
+    "Malta": {
+        "cmt": 70516,
+        "fst": 594,
+        "sdt": 68522
+    },
+    "Eswatini": {
+        "cmt": 68925,
+        "fst": 1386,
+        "sdt": 67297
+    },
+    "Fiji": {
+        "cmt": 63624,
+        "fst": 824,
+        "sdt": 70146
+    },
+    "Madagascar": {
+        "cmt": 62844,
+        "fst": 1335,
+        "sdt": 56500
+    },
+    "Guyana": {
+        "cmt": 62537,
+        "fst": 1203,
+        "sdt": 60300
+    },
+    "Sudan": {
+        "cmt": 59939,
+        "fst": 3831,
+        "sdt": 40329
+    },
+    "Mauritania": {
+        "cmt": 58593,
+        "fst": 975,
+        "sdt": 57446
+    },
+    "French Polynesia": {
+        "cmt": 58260,
+        "fst": 637,
+        "sdt": 0
+    },
+    "Belize": {
+        "cmt": 55975,
+        "fst": 633,
+        "sdt": 52649
+    },
+    "Cabo Verde": {
+        "cmt": 55856,
+        "fst": 400,
+        "sdt": 55375
+    },
+    "Syria": {
+        "cmt": 53278,
+        "fst": 3041,
+        "sdt": 44517
+    },
+    "Barbados": {
+        "cmt": 52909,
+        "fst": 307,
+        "sdt": 48436
+    },
+    "Channel Islands": {
+        "cmt": 48271,
+        "fst": 139,
+        "sdt": 45251
+    },
+    "Gabon": {
+        "cmt": 47467,
+        "fst": 302,
+        "sdt": 44623
+    },
+    "New Caledonia": {
+        "cmt": 43885,
+        "fst": 287,
+        "sdt": 29807
+    },
+    "Papua New Guinea": {
+        "cmt": 39580,
+        "fst": 628,
+        "sdt": 37504
+    },
+    "Seychelles": {
+        "cmt": 38766,
+        "fst": 159,
+        "sdt": 37803
+    },
+    "Cura&ccedil;ao": {
+        "cmt": 38608,
+        "fst": 260,
+        "sdt": 37646
+    },
+    "Burundi": {
+        "cmt": 37947,
+        "fst": 38,
+        "sdt": 773
+    },
+    "Andorra": {
+        "cmt": 37522,
+        "fst": 150,
+        "sdt": 36629
+    },
+    "Hong Kong": {
+        "cmt": 37071,
+        "fst": 238,
+        "sdt": 13232
+    },
+    "Togo": {
+        "cmt": 36710,
+        "fst": 271,
+        "sdt": 36264
+    },
+    "Mayotte": {
+        "cmt": 36572,
+        "fst": 187,
+        "sdt": 2964
+    },
+    "Guinea": {
+        "cmt": 36354,
+        "fst": 438,
+        "sdt": 32684
+    },
+    "Aruba": {
+        "cmt": 33568,
+        "fst": 198,
+        "sdt": 33291
+    },
+    "Tanzania": {
+        "cmt": 33549,
+        "fst": 796,
+        "sdt": 0
+    },
+    "Bahamas": {
+        "cmt": 33005,
+        "fst": 768,
+        "sdt": 25638
+    },
+    "Lesotho": {
+        "cmt": 32434,
+        "fst": 696,
+        "sdt": 23116
+    },
+    "Faeroe Islands": {
+        "cmt": 30571,
+        "fst": 24,
+        "sdt": 7693
+    },
+    "Mali": {
+        "cmt": 30321,
+        "fst": 717,
+        "sdt": 28341
+    },
+    "Haiti": {
+        "cmt": 30162,
+        "fst": 814,
+        "sdt": 25152
+    },
+    "Mauritius": {
+        "cmt": 28891,
+        "fst": 762,
+        "sdt": 25684
+    },
+    "Brunei ": {
+        "cmt": 27599,
+        "fst": 98,
+        "sdt": 18520
+    },
+    "New Zealand": {
+        "cmt": 26935,
+        "fst": 53,
+        "sdt": 16470
+    },
+    "Benin": {
+        "cmt": 26567,
+        "fst": 163,
+        "sdt": 25506
+    },
+    "Somalia": {
+        "cmt": 26260,
+        "fst": 1345,
+        "sdt": 13182
+    },
+    "Congo": {
+        "cmt": 23874,
+        "fst": 375,
+        "sdt": 20178
+    },
+    "Saint Lucia": {
+        "cmt": 22426,
+        "fst": 354,
+        "sdt": 1
+    },
+    "Timor-Leste": {
+        "cmt": 22261,
+        "fst": 125,
+        "sdt": 20620
+    },
+    "Isle of Man": {
+        "cmt": 22257,
+        "fst": 77,
+        "sdt": 21948
+    },
+    "Burkina Faso": {
+        "cmt": 20743,
+        "fst": 375,
+        "sdt": 20309
+    },
+    "Taiwan": {
+        "cmt": 19864,
+        "fst": 852,
+        "sdt": 0
+    },
+    "Cayman Islands": {
+        "cmt": 18728,
+        "fst": 17,
+        "sdt": 8553
+    },
+    "Nicaragua": {
+        "cmt": 17895,
+        "fst": 219,
+        "sdt": 4225
+    },
+    "Tajikistan": {
+        "cmt": 17385,
+        "fst": 124,
+        "sdt": 17249
+    },
+    "South Sudan": {
+        "cmt": 16903,
+        "fst": 137,
+        "sdt": 13077
+    },
+    "Equatorial Guinea": {
+        "cmt": 15870,
+        "fst": 182,
+        "sdt": 15620
+    },
+    "Djibouti": {
+        "cmt": 15535,
+        "fst": 189,
+        "sdt": 15337
+    },
+    "Gibraltar": {
+        "cmt": 14873,
+        "fst": 101,
+        "sdt": 13993
+    },
+    "CAR": {
+        "cmt": 14187,
+        "fst": 113,
+        "sdt": 6859
+    },
+    "San Marino": {
+        "cmt": 13988,
+        "fst": 110,
+        "sdt": 13226
+    },
+    "Grenada": {
+        "cmt": 13452,
+        "fst": 214,
+        "sdt": 12815
+    },
+    "Gambia": {
+        "cmt": 11924,
+        "fst": 365,
+        "sdt": 11461
+    },
+    "Yemen": {
+        "cmt": 11718,
+        "fst": 2114,
+        "sdt": 8545
+    },
+    "Greenland": {
+        "cmt": 11547,
+        "fst": 10,
+        "sdt": 2761
+    },
+    "Bermuda": {
+        "cmt": 11316,
+        "fst": 122,
+        "sdt": 10983
+    },
+    "Liechtenstein": {
+        "cmt": 11036,
+        "fst": 75,
+        "sdt": 10542
+    },
+    "Dominica": {
+        "cmt": 10752,
+        "fst": 57,
+        "sdt": 9915
+    },
+    "Saint Martin": {
+        "cmt": 9827,
+        "fst": 63,
+        "sdt": 1399
+    },
+    "Eritrea": {
+        "cmt": 9683,
+        "fst": 103,
+        "sdt": 9550
+    },
+    "Sint Maarten": {
+        "cmt": 9511,
+        "fst": 84,
+        "sdt": 9308
+    },
+    "Bhutan": {
+        "cmt": 9210,
+        "fst": 5,
+        "sdt": 6088
+    },
+    "Monaco": {
+        "cmt": 9128,
+        "fst": 49,
+        "sdt": 8903
+    },
+    "Niger": {
+        "cmt": 8728,
+        "fst": 303,
+        "sdt": 8399
+    },
+    "Comoros": {
+        "cmt": 8014,
+        "fst": 160,
+        "sdt": 7777
+    },
+    "Guinea-Bissau": {
+        "cmt": 7891,
+        "fst": 164,
+        "sdt": 6921
+    },
+    "Sierra Leone": {
+        "cmt": 7661,
+        "fst": 125,
+        "sdt": 0
+    },
+    "Caribbean Netherlands": {
+        "cmt": 7472,
+        "fst": 31,
+        "sdt": 7315
+    },
+    "Antigua and Barbuda": {
+        "cmt": 7395,
+        "fst": 135,
+        "sdt": 7180
+    },
+    "Liberia": {
+        "cmt": 7360,
+        "fst": 290,
+        "sdt": 5747
+    },
+    "Chad": {
+        "cmt": 7214,
+        "fst": 190,
+        "sdt": 4874
+    },
+    "St. Vincent Grenadines": {
+        "cmt": 6729,
+        "fst": 104,
+        "sdt": 6050
+    },
+    "Sao Tome and Principe": {
+        "cmt": 5922,
+        "fst": 71,
+        "sdt": 5841
+    },
+    "Turks and Caicos": {
+        "cmt": 5839,
+        "fst": 36,
+        "sdt": 5759
+    },
+    "Solomon Islands": {
+        "cmt": 5565,
+        "fst": 74,
+        "sdt": 1216
+    },
+    "Saint Kitts and Nevis": {
+        "cmt": 5511,
+        "fst": 40,
+        "sdt": 5445
+    },
+    "St. Barth": {
+        "cmt": 3735,
+        "fst": 6,
+        "sdt": 0
+    },
+    "Palau": {
+        "cmt": 3463,
+        "fst": 5,
+        "sdt": 2485
+    },
+    "Kiribati": {
+        "cmt": 2810,
+        "fst": 9,
+        "sdt": 715
+    },
+    "Anguilla": {
+        "cmt": 2506,
+        "fst": 9,
+        "sdt": 2476
+    },
+    "Saint Pierre Miquelon": {
+        "cmt": 1047,
+        "fst": 1,
+        "sdt": 1013
+    },
+    "Wallis and Futuna": {
+        "cmt": 454,
+        "fst": 7,
+        "sdt": 438
+    },
+    "Tonga": {
+        "cmt": 210,
+        "fst": 0,
+        "sdt": 9
+    },
+    "Montserrat": {
+        "cmt": 163,
+        "fst": 2,
+        "sdt": 161
+    },
+    "Falkland Islands": {
+        "cmt": 89,
+        "fst": 0,
+        "sdt": 0
+    },
+    "Macao": {
+        "cmt": 79,
+        "fst": 0,
+        "sdt": 79
+    },
+    "Samoa": {
+        "cmt": 33,
+        "fst": 0,
+        "sdt": 3
+    },
+    "Vatican City": {
+        "cmt": 29,
+        "fst": 0,
+        "sdt": 28
+    },
+    "Vanuatu": {
+        "cmt": 11,
+        "fst": 1,
+        "sdt": 6
+    },
+    "Western Sahara": {
+        "cmt": 10,
+        "fst": 1,
+        "sdt": 8
+    },
+    "Marshall Islands": {
+        "cmt": 7,
+        "fst": 0,
+        "sdt": 7
+    },
+    "Saint Helena": {
+        "cmt": 2,
+        "fst": 0,
+        "sdt": 2
+    },
+    "Micronesia": {
+        "cmt": 1,
+        "fst": 0,
+        "sdt": 1
+    },
+    "China": {
+        "cmt": 107375,
+        "fst": 4636,
+        "sdt": 101316
+    },
+    "Italy": {
+        "cmt": 12323398,
+        "fst": 152282,
+        "sdt": 10778607
+    },
+    "Colombia": {
+        "cmt": 6035143,
+        "fst": 137733,
+        "sdt": 5963238
+    },
+    "Peru": {
+        "cmt": 3474965,
+        "fst": 208964,
+        "sdt": 3473015
+    },
+    "Austria": {
+        "cmt": 2393576,
+        "fst": 14503,
+        "sdt": 2367611
+    },
+    "Hungary": {
+        "cmt": 1738944,
+        "fst": 42966,
+        "sdt": 1645978
+    },
+    "Lebanon": {
+        "cmt": 1035209,
+        "fst": 9909,
+        "sdt": 186
+    },
+    "Tunisia": {
+        "cmt": 974214,
+        "fst": 27295,
+        "sdt": 909992
+    },
+    "British Virgin Islands": {
+        "cmt": 5997,
+        "fst": 62,
+        "sdt": 33
+    },
+    "Thailand": {
+        "cmt": 2639062,
+        "fst": 22519,
+        "sdt": 2624585
+    },
+    "Greece": {
+        "cmt": 2235920,
+        "fst": 25001,
+        "sdt": 1923031
+    },
+    "Serbia": {
+        "cmt": 1861413,
+        "fst": 14611,
+        "sdt": 1730366
+    },
+    "Slovakia": {
+        "cmt": 1288524,
+        "fst": 18145,
+        "sdt": 1255571
+    },
+    "Cyprus": {
+        "cmt": 298235,
+        "fst": 798,
+        "sdt": 60
+    },
+    "French Guiana": {
+        "cmt": 77387,
+        "fst": 385,
+        "sdt": 11254
+    }
+}
