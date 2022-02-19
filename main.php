@@ -50,6 +50,7 @@ function parse_html_data(string $html): ?array
 	$ret = [];
 	foreach ($r[2] as $k => &$i) {
 
+		$r[1][$k] = strtolower($r[1][$k]);
 		$ref = &$ret[$r[1][$k]];
 		if (isset($ref))
 			continue;
